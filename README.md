@@ -1,6 +1,6 @@
 ### Hi there 👋. Welcome to my profile!
 
-- 🌱 I’m currently learning: Node.js, Vue.js.
+- 🌱 I’m currently learning: TypeScript, Node.js, Vue.js.
 
 ### Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=rafcristina&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
