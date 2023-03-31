@@ -1,7 +1,7 @@
 ### Hi there 👋. Welcome to my profile!
 
-- 🔭 I’m currently working on getting a Scrum Master certification from Scrum.org.
-- 🌱 I’m currently learning Android and Kotlin.
+- 🔭 I’m currently working as iOS
+- 🌱 I’m currently learning CI/CD.
 
 ### Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=rafcristina&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
