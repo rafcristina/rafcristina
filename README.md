@@ -1,6 +1,6 @@
 ### Hi there 👋. Welcome to my profile!
 
-- 🔭 I’m currently working as iOS
+- 🔭 I’m currently working as an iOS developer.
 - 🌱 I’m currently learning CI/CD.
 
 ### Github Stats
